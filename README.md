@@ -4,7 +4,7 @@ A demo wallet interface showcasing the integration of Reown [WalletKit](https://
 
 ## Demo 
 
-https://github.com/user-attachments/assets/8c46590d-ab9e-4488-a46d-0d12a312da18
+https://github.com/user-attachments/assets/127c3408-01d4-48f4-a0a9-889ed04d306f
 
 ## Prerequisites
 
